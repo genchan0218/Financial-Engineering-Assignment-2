@@ -1,4 +1,4 @@
-# Monte Carlo Portfolio Optimization (Long & Short Strategies)
+# Monte Carlo Portfolio Optimization (Long Only & Long/Short Strategies)
 
 This repository contains the implementation and report for a Monte Carlo–based portfolio optimization assignment. We explore long-only and long‑short portfolio strategies across three assets, maximizing expected return under risk constraints using stochastic programming.
 
